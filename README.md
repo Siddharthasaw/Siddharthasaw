@@ -1,102 +1,119 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 
 <h1 align="center">Hi 👋, I'm Siddhartha Saw</h1>
-<h3 align="center">Senior Full Stack Developer | FinTech Systems Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<h3 align="center">
+💻 Senior Full Stack Developer | ⚡ FinTech Systems Engineer
+</h3>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=siddharthasaw&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthasaw" /> 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&width=600&lines=Next.js+Developer;Node.js+Backend+Engineer;FinTech+Platform+Developer;Low+Latency+Trading+Systems;Building+Scalable+Applications"/>
 </p>
 
-- 🔭 Currently working as **Senior Full Stack Developer at YoForex**
-
-- 🚀 Building **enterprise Forex ecosystem (CRM, Trading Terminal, Copy Trading)**
-
-- 🌱 Working with **Next.js, Node.js, Redis, WebSockets and AI systems**
-
-- ⚡ Specialized in **FinTech platforms, trading infrastructure and real-time systems**
-
-- 👨‍💻 My projects are available at  
-  **https://siddharthasaw.github.io/portfolio/**
-
-- 💬 Ask me about  
-  **JavaScript, Node.js, React, Next.js, MongoDB, Trading APIs**
-
-- 📫 Reach me at  
-  **siddharthasaw626@gmail.com**
-
-- 📄 My Resume  
-  **https://drive.google.com/file/d/15KLzKq2C27nG64fFi5gzObHLb-zGSxMv/view**
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+# 🧑‍💻 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/siddharthasaw" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+```bash
+> Developer: Siddhartha Saw
+> Location: Kolkata, India
+> Role: Senior Full Stack Developer
+> Focus: FinTech & Trading Infrastructure
+```
+
+- 🔭 Working on **Forex Trading Platforms**
+- ⚡ Building **Real-time Trading Systems**
+- 🚀 Specialized in **Next.js, Node.js, Redis, WebSockets**
+- 📊 Experienced with **MT4 / MT5 APIs**
+- 🧠 Interested in **AI + Trading Automation**
+
+---
+
+# 🚀 Projects
+
+### ⚡ YoForex AI
+AI based trading prediction system.
+
+### 📊 TradeCopier
+Ultra low latency trade replication engine.
+
+### 🏦 FxTrusts
+Enterprise forex CRM platform.
+
+### 🌐 Flexy Markets
+Complete brokerage infrastructure.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=siddharthasaw&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthasaw&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+# 🔥 GitHub Streak
 
-<p align="left">
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://redis.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthasaw&theme=tokyonight"/>
 </p>
 
 ---
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthasaw&show_icons=true&locale=en&layout=compact" />
-</p>
+# 🌐 Connect With Me
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthasaw&show_icons=true&locale=en" />
-</p>
+📧 Email  
+siddharthasaw626@gmail.com  
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthasaw" />
-</p>
+💼 LinkedIn  
+https://linkedin.com/in/siddharthasaw  
+
+🌍 Portfolio  
+https://siddharthasaw.github.io/portfolio/
+
+---
+
+```bash
+> status: coding...
+> building scalable systems...
+```
+
+⭐ **Siddhartha Saw**
